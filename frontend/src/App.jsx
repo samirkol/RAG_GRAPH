@@ -85,7 +85,7 @@ function App() {
           HYBRID RAG DEMO
         </div>
 
-        <h1>Supplier AI Assistant</h1>
+        <h1>Supplier Hybrid AI Assistant</h1>
 
         <p>
           Vector Search + Knowledge Graph + GPT
